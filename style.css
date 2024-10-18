@@ -67,7 +67,7 @@ h2 {
     background-repeat: no-repeat; /* Prevent background from repeating */
     background-attachment: fixed; /* Parallax effect: make the background stay fixed when scrolling */
     background: linear-gradient(0deg, rgba(141, 0, 155, 0.6), rgba(141, 0, 155, 0.6)), 
-                url("images/pexels-digitalbuggu-193777.jpg");
+                url("images/home-section-BG.jpg") no-repeat center;
 }
 
 /* About Section */
@@ -81,12 +81,12 @@ h2 {
     padding: 20px;
     text-align: center;
     color: #ffffff;
-    background-size: cover; /* Ensure the background image covers the entire section */
+    background-size: contain; /* Ensure the background image covers the entire section */
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Prevent background from repeating */
     background-attachment: fixed; /* Parallax effect: make the background stay fixed when scrolling */
     background: linear-gradient(0deg, rgba(141, 0, 155, 0.85), rgba(141, 0, 155, 0.85)), 
-                url("images/pexels-emine-gizem-dokuzlar-806264421-28552140.jpg");
+                url("images/about-sesction-BG.jpg") no-repeat center;
 }
 
 /* Team Section */
@@ -100,12 +100,12 @@ h2 {
     padding: 20px;
     text-align: center;
     color: #ffffff;
-    background-size: cover; /* Ensure the background image covers the entire section */
+    background-size: contain; /* Ensure the background image covers the entire section */
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Prevent background from repeating */
     background-attachment: fixed; /* Parallax effect: make the background stay fixed when scrolling */
     background: linear-gradient(0deg, rgba(141, 0, 155, 0.85), rgba(141, 0, 155, 0.85)), 
-                url("images/pexels-pixabay-163064.jpg");
+                url("images/team-section-BG.jpg") no-repeat center;
 }
 
 /* Projects Section */
@@ -119,12 +119,12 @@ h2 {
     padding: 20px;
     text-align: center;
     color: #ffffff;
-    background-size: cover; /* Ensure the background image covers the entire section */
+    background-size: contain; /* Ensure the background image covers the entire section */
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Prevent background from repeating */
     background-attachment: fixed; /* Parallax effect: make the background stay fixed when scrolling */
     background: linear-gradient(0deg, rgba(141, 0, 155, 0.85), rgba(141, 0, 155, 0.85)), 
-                url("images/pexels-eye4dtail-374914.jpg");
+                url("images/projects-section-BG.jpg") no-repeat center;
 }
 
 #upcomingProjectsSection {
@@ -137,12 +137,12 @@ h2 {
     padding: 20px;
     text-align: center;
     color: #ffffff;
-    background-size: cover; /* Ensure the background image covers the entire section */
+    background-size: contain; /* Ensure the background image covers the entire section */
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Prevent background from repeating */
     background-attachment: fixed; /* Parallax effect: make the background stay fixed when scrolling */
     background: linear-gradient(0deg, rgba(141, 0, 155, 0.85), rgba(141, 0, 155, 0.85)), 
-                url("images/pexels-polina-tankilevitch-4523025.jpg");
+                url("images/upcoming-projects-section-BG.jpg") no-repeat center;
 }
 
 /* Tutorials Section */
@@ -156,12 +156,12 @@ h2 {
     padding: 20px;
     text-align: center;
     color: #ffffff;
-    background-size: cover; /* Ensure the background image covers the entire section */
+    background-size: contain; /* Ensure the background image covers the entire section */
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Prevent background from repeating */
     background-attachment: fixed; /* Parallax effect: make the background stay fixed when scrolling */
     background: linear-gradient(0deg, rgba(141, 0, 155, 0.85), rgba(141, 0, 155, 0.85)), 
-                url("images/pexels-greenwish-_-137929759-13883890.jpg");
+                url("images/tutorial-section-BG.jpg") no-repeat center;
 }
 
 /* Contact Section */
@@ -175,12 +175,12 @@ h2 {
     padding: 20px;
     text-align: center;
     color: #ffffff;
-    background-size: cover; /* Ensure the background image covers the entire section */
+    background-size: contain; /* Ensure the background image covers the entire section */
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Prevent background from repeating */
     background-attachment: fixed; /* Parallax effect: make the background stay fixed when scrolling */
     background: linear-gradient(0deg, rgba(141, 0, 155, 0.85), rgba(141, 0, 155, 0.85)), 
-                url("images/pexels-maksgelatin-5605061.jpg");
+                url("images/pexels-maksgelatin-5605061.jpg") no-repeat center;
 }
 
 
