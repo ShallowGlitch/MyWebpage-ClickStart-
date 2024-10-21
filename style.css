@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth; /* Enables smooth scrolling for anchor links */
+}
+
 /* General Reset and Base Styles */
 body {
     background-color: #8D089B;
@@ -53,7 +57,6 @@ h2 {
 }
 
 /* Section Styling */
-
 
 /* Home Section */
 #homeSection {
@@ -139,6 +142,7 @@ h2 {
     transition: transform 0.3s ease; /* Optional: Smooth hover effect */
 }
 
+/*Up Coming Projects Section*/
 #projectsSection img:hover {
     transform: scale(1.05); /* Slightly enlarge the image on hover */
 }
@@ -159,6 +163,18 @@ h2 {
     background-attachment: fixed; /* Parallax effect: make the background stay fixed when scrolling */
     background: linear-gradient(0deg, rgba(141, 0, 155, 0.85), rgba(141, 0, 155, 0.85)), 
                 url("images/upcoming-projects-section-BG.jpg") no-repeat center;
+}
+
+#upcomingProjectsSection img {
+    max-width: 50%; /* Adjust the image size */
+    height: auto;
+    border-radius: 15px; /* Apply rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Optional: Add shadow for better visual effect */
+    transition: transform 0.3s ease; /* Optional: Smooth hover effect */
+}
+
+#upcomingProjectsSection img:hover {
+    transform: scale(1.05); /* Slightly enlarge the image on hover */
 }
 
 /* Tutorials Section */
